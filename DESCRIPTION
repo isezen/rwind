@@ -1,0 +1,12 @@
+Package: rwind
+Title: Tools to analyse the wind data
+Version: 0.0.0.9000
+Authors@R: person("Ismail", "SEZEN", email = "sezenismail@gmail.com", role = c("aut", "cre"))
+Description: Tools to analyse wind data.
+Depends:
+    R (>= 3.2.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
