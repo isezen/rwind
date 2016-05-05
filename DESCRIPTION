@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Ismail", "SEZEN", email = "sezenismail@gmail.com", role = c("aut", "cre"))
 Description: Tools to analyse wind data.
 Depends:
-    R (>= 3.2.4)
+    R (>= 3.2.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
